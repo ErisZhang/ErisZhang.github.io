@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Fast Complementary Dynamics via Skinning Eigenmodes</title>
+      <link>https://example.com/publication/fast-cd/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fast-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Progressive Simulation for Cloth Quasistatics</title>
       <link>https://example.com/publication/progressive-cloth/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
