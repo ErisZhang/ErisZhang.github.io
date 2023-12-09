@@ -78,7 +78,7 @@
   
     
   
-  <meta name="description" content="&lt;b&gt;Jiayi Eris Zhang&lt;/b&gt;, Jérémie Dumas, Yun (Raymond) Fei, Alec Jacobson, Doug L. James, Danny M. Kaufman &lt;br&gt; &lt;i&gt;ACM Transactions on Graphics (SIGGRAPH Asia 2023) &lt;/i&gt; &lt;br&gt; &lt;i&gt; Details are coming soon! &lt;/i&gt;" />
+  <meta name="description" content="&lt;b&gt;Jiayi Eris Zhang&lt;/b&gt;, Jérémie Dumas, Yun (Raymond) Fei, Alec Jacobson, Doug L. James, Danny M. Kaufman &lt;br&gt; &lt;i&gt;ACM Transactions on Graphics (SIGGRAPH Asia 2023) &lt;/i&gt; &lt;br&gt;" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/publication/progressive-shell/" />
@@ -310,7 +310,7 @@
   <meta property="og:site_name" content="Jiayi Eris Zhang" />
   <meta property="og:url" content="https://example.com/publication/progressive-shell/" />
   <meta property="og:title" content="Progressive Shell Quasistatics for Unstructured Meshes | Jiayi Eris Zhang" />
-  <meta property="og:description" content="&lt;b&gt;Jiayi Eris Zhang&lt;/b&gt;, Jérémie Dumas, Yun (Raymond) Fei, Alec Jacobson, Doug L. James, Danny M. Kaufman &lt;br&gt; &lt;i&gt;ACM Transactions on Graphics (SIGGRAPH Asia 2023) &lt;/i&gt; &lt;br&gt; &lt;i&gt; Details are coming soon! &lt;/i&gt;" /><meta property="og:image" content="https://example.com/publication/progressive-shell/featured.png" />
+  <meta property="og:description" content="&lt;b&gt;Jiayi Eris Zhang&lt;/b&gt;, Jérémie Dumas, Yun (Raymond) Fei, Alec Jacobson, Doug L. James, Danny M. Kaufman &lt;br&gt; &lt;i&gt;ACM Transactions on Graphics (SIGGRAPH Asia 2023) &lt;/i&gt; &lt;br&gt;" /><meta property="og:image" content="https://example.com/publication/progressive-shell/featured.png" />
     <meta property="twitter:image" content="https://example.com/publication/progressive-shell/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -365,7 +365,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "\u003cb\u003eJiayi Eris Zhang\u003c/b\u003e, Jérémie Dumas, Yun (Raymond) Fei, Alec Jacobson, Doug L. James, Danny M. Kaufman \u003cbr\u003e \u003ci\u003eACM Transactions on Graphics (SIGGRAPH Asia 2023) \u003c/i\u003e \u003cbr\u003e \u003ci\u003e Details are coming soon! \u003c/i\u003e"
+  "description": "\u003cb\u003eJiayi Eris Zhang\u003c/b\u003e, Jérémie Dumas, Yun (Raymond) Fei, Alec Jacobson, Doug L. James, Danny M. Kaufman \u003cbr\u003e \u003ci\u003eACM Transactions on Graphics (SIGGRAPH Asia 2023) \u003c/i\u003e \u003cbr\u003e"
 }
 </script>
 
@@ -707,6 +707,70 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/uploads/psq-combined.pdf" >
+    Paper</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://pcs-sim.github.io/psq/" target="_blank" rel="noopener">
+    Project</a>
+
+
+</div>
+
 
 </div>
 
@@ -724,7 +788,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Details are coming soon!</p>
+    <p class="pub-abstract">Thin shell structures exhibit complex behaviors critical for modeling and design across wide-ranging applications. Capturing their mechanical response requires finely detailed, high-resolution meshes. Corresponding simulations for predicting equilibria with these meshes are expensive, whereas coarse-mesh simulations can be fast but generate unacceptable artifacts and inaccuracies. The recently proposed progressive simulation framework [Zhang et al. 2022] offers a promising avenue to address these limitations with consistent and progressively improving simulation over a hierarchy of increasingly higher-resolution models. Unfortunately, it is currently severely limited in application to meshes and shapes generated via Loop subdivision. <br><br> We propose Progressive Shells Quasistatics to extend progressive simulation to the high-fidelity modeling and design of all input shell (and plate) geometries with unstructured (as well as structured) triangle meshes. To do so, we construct a fine-to-coarse hierarchy with a novel nonlinear prolongation operator custom-suited for curved-surface simulation that is rest-shape preserving, supports complex curved boundaries, and enables the reconstruction of detailed geometries from coarse-level meshes. Then, to enable convergent, high-quality solutions with robust contact handling, we propose a new, safe, and efficient shape-preserving upsampling method that ensures non-intersection and strain limits during refinement. With these core contributions, Progressive Shell Quasistatics enables, for the first time, wide generality for progressive simulation, including support for arbitrary curved-shell geometries, progressive collision objects, curved boundaries, and unstructured triangle meshes – all while ensuring that preview and final solutions remain free of intersections. We demonstrate these features across a wide range of stress tests where progressive simulation captures the wrinkling, folding, twisting, and buckling behaviors of frictionally contacting thin shells with orders-of-magnitude speed-up in examples over direct fine-resolution simulation.</p>
     
 
     
