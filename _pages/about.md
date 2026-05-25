@@ -50,11 +50,11 @@ Previously, I completed my undergraduate studies in computer science and mathema
 
 Email: eriszhan [at] stanford [dot] edu
 
-<p>
+<!-- <p>
   <span class="badge" style="background-color:#589760; color:#1f2933;">
     Job Market
   </span>
   <span style="color:#589760; font-weight:450;">
     I’m on the 2025-2026 academic job market and open to related industry roles.
   </span>
-</p>
+</p> -->
