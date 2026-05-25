@@ -40,7 +40,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a fifth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug James](https://graphics.stanford.edu/~djames/). I also work closely with [Danny Kaufman](https://graphics.stanford.edu/~djames/) at Adobe. My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
+Hi! I am a fifth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug James](https://graphics.stanford.edu/~djames/). I also work closely with [Danny Kaufman](https://graphics.stanford.edu/~djames/) at Adobe. My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
 
 
 I have a broad interest in computer graphics, including physics simulation, geometry processing, numerical optimization, and spatial intelligence. Centered on multiscale modeling and simulation, I develop algorithms, models, and tools that enhance human productivity and creativity in science, engineering, and creative authoring workflows.
@@ -50,11 +50,11 @@ Previously, I completed my undergraduate studies in computer science and mathema
 
 Email: eriszhan [at] stanford [dot] edu
 
-<!-- <p>
+<p>
   <span class="badge" style="background-color:#589760; color:#1f2933;">
     Job Market
   </span>
   <span style="color:#589760; font-weight:450;">
     I’m on the 2025-2026 academic job market and open to related industry roles.
   </span>
-</p> -->
+</p>
