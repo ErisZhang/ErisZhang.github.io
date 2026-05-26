@@ -40,15 +40,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a fifth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug James](https://graphics.stanford.edu/~djames/). I also work closely with [Danny Kaufman](https://graphics.stanford.edu/~djames/) at Adobe. My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
+Hi! I am a fifth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug James](https://graphics.stanford.edu/~djames/). I also work closely with [Danny Kaufman](https://dannykaufman.io) at Adobe. My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
 
 
 I have a broad interest in computer graphics, including physics simulation, geometry processing, numerical optimization, and spatial intelligence. Centered on multiscale modeling and simulation, I develop algorithms, models, and tools that enhance human productivity and creativity in science, engineering, and creative authoring workflows.
 
 
-Previously, I completed my undergraduate studies in computer science and mathematics at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). During my time there, I was fortunate to do research with Profs. [Marc Alexa](https://www.cg.tu-berlin.de/team/prof-dr-marc-alexa/), [David Levin](http://142.93.146.228/researchdb/), [Fanny Chevalier](http://fannychevalier.net/) and [Ken Jackson](http://www.cs.toronto.edu/~krj/) on topics spanning computer graphics, human-computer interaction, and numerical analysis.  I also had several wonderful internships at [Adobe Research](https://research.adobe.com/) and [NVIDIA](https://research.nvidia.com/labs/sil/).
+Previously, I completed my undergraduate studies in computer science and mathematics at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). During my time there, I was fortunate to do research with Profs. [Marc Alexa](https://www.cg.tu-berlin.de/people/marc-alexa), [David Levin](https://www.diwlevin.com), [Fanny Chevalier](http://fannychevalier.net/) and [Ken Jackson](http://www.cs.toronto.edu/~krj/) on topics spanning computer graphics, human-computer interaction, and numerical analysis.  I also had several wonderful internships at [Adobe Research](https://research.adobe.com/) and [NVIDIA](https://research.nvidia.com/labs/sil/).
 
 Email: eriszhan [at] stanford [dot] edu
+
 
 <p>
   <span class="badge" style="background-color:#589760; color:#1f2933;">
